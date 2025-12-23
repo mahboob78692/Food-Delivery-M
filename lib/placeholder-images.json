@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A delicious spread of various foods on a table.",
+      "imageUrl": "https://images.unsplash.com/photo-1564638305579-5e395c9b62c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmb29kJTIwc3ByZWFkfGVufDB8fHx8MTc2NjM5NTczN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food spread"
+    },
+    {
+      "id": "restaurant-1",
+      "description": "The exterior of a modern Italian restaurant at dusk.",
+      "imageUrl": "https://images.unsplash.com/photo-1534650075489-3baecec1e8b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpdGFsaWFuJTIwcmVzdGF1cmFudHxlbnwwfHx8fDE3NjY0MjI2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "italian restaurant"
+    },
+    {
+      "id": "restaurant-2",
+      "description": "A vibrant and busy sushi bar.",
+      "imageUrl": "https://images.unsplash.com/photo-1470256699805-a29e1b58598a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdXNoaSUyMGJhcnxlbnwwfHx8fDE3NjYzODM2ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sushi bar"
+    },
+    {
+      "id": "restaurant-3",
+      "description": "A cozy cafe with warm lighting.",
+      "imageUrl": "https://images.unsplash.com/photo-1549417229-bc7a29c3ed2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y296eSUyMGNhZmV8ZW58MHx8fHwxNzY2NDE0ODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cozy cafe"
+    },
+    {
+      "id": "restaurant-4",
+      "description": "A street food stall selling tacos.",
+      "imageUrl": "https://images.unsplash.com/photo-1653795164352-6f4ba840f525?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGFjbyUyMHN0YWxsfGVufDB8fHx8MTc2NjQ2ODEyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "taco stall"
+    },
+    {
+      "id": "menu-pizza",
+      "description": "A classic Margherita pizza with fresh basil.",
+      "imageUrl": "https://images.unsplash.com/photo-1573821663912-6df460f9c684?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYXJnaGVyaXRhJTIwcGl6emF8ZW58MHx8fHwxNzY2NDQ1Njk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "margherita pizza"
+    },
+    {
+      "id": "menu-pasta",
+      "description": "A bowl of spaghetti carbonara with a creamy sauce.",
+      "imageUrl": "https://images.unsplash.com/photo-1574969903809-3f7a1668ceb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzcGFnaGV0dGklMjBjYXJib25hcmF8ZW58MHx8fHwxNzY2MzY4NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spaghetti carbonara"
+    },
+    {
+      "id": "menu-sushi-roll",
+      "description": "A plate of assorted sushi rolls.",
+      "imageUrl": "https://images.unsplash.com/photo-1763647756796-af9230245bf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdXNoaSUyMHJvbGxzfGVufDB8fHx8MTc2NjQ2ODEyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sushi rolls"
+    },
+    {
+      "id": "menu-ramen",
+      "description": "A steaming bowl of tonkotsu ramen.",
+      "imageUrl": "https://images.unsplash.com/photo-1682588383214-e9c961e5afdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0b25rb3RzdSUyMHJhbWVufGVufDB8fHx8MTc2NjQ2ODEyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tonkotsu ramen"
+    },
+    {
+      "id": "menu-salad",
+      "description": "A fresh Caesar salad in a white bowl.",
+      "imageUrl": "https://images.unsplash.com/photo-1574926054530-540288c8e678?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjYWVzYXIlMjBzYWxhZHxlbnwwfHx8fDE3NjYzODQxNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "caesar salad"
+    },
+    {
+      "id": "menu-burger",
+      "description": "A juicy cheeseburger with fries.",
+      "imageUrl": "https://images.unsplash.com/photo-1700916536887-95b4742b6dd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjaGVlc2VidXJnZXIlMjBmcmllc3xlbnwwfHx8fDE3NjYzODQxNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cheeseburger fries"
+    },
+    {
+      "id": "menu-tacos",
+      "description": "A set of three carne asada tacos on a plate.",
+      "imageUrl": "https://images.unsplash.com/photo-1558030137-a56c1b004fa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYXJuZSUyMGFzYWRhfGVufDB8fHx8MTc2NjQ2ODEyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "carne asada"
+    },
+    {
+      "id": "menu-burrito",
+      "description": "A large burrito wrapped in foil.",
+      "imageUrl": "https://images.unsplash.com/photo-1585238342107-49a3cdace47f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxidXJyaXRvfGVufDB8fHx8MTc2NjM0OTMwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "burrito"
+    }
+  ]
+}
